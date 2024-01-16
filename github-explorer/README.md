@@ -16,6 +16,7 @@
 - Refresh da página mantendo os estados: `yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh`
 - Install Typescript: `yarn add -D typescript`
 - Init typescript: `yarn tsc --init`
-
+- Babel Typescript: `yarn add -D @babel/preset-typescript`
+- React Dom: `yarn add -D @types/react-dom`
 
 - Rodar: `yarn dev`
