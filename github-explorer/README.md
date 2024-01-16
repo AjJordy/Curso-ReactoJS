@@ -14,5 +14,8 @@
     - Windows: `yarn add cross-env -D`
 - Install SASS: `yarn add sass sass-loader -D`
 - Refresh da página mantendo os estados: `yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh`
+- Install Typescript: `yarn add -D typescript`
+- Init typescript: `yarn tsc --init`
+
 
 - Rodar: `yarn dev`
